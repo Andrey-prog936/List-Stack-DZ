@@ -115,6 +115,8 @@ int main()
 	s1.Push(312);
 	s1.Push(33);
 	s1.Print();
+	s1.Pop();
+	s1.Print();
 	cout << endl;
 	s1.Peek();
 
